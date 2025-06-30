@@ -37,3 +37,9 @@ A clean and responsive **Portfolio Website** built using **HTML**, **CSS**, and 
 
 ---
 
+## 🌐 Live Deployment
+
+This project is deployed and publicly accessible at:  
+👉 [https://jashandeep321.github.io/portfolio/](https://jashandeep321.github.io/portfolio/)
+
+

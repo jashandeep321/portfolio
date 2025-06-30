@@ -33,5 +33,7 @@ A clean and responsive **Portfolio Website** built using **HTML**, **CSS**, and 
 2. Open `index.html` directly in your browser  
 3. Or use **Live Server** (VS Code extension) for real-time preview  
 4. Resize the browser to test the **responsive hamburger menu**  
-5. Interact with the navigation, explore sections, and test the contact form  
+5. Interact with the navigation, explore sections, and test the contact form
+
+---
 
